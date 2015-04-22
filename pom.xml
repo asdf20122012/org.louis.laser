@@ -22,5 +22,6 @@
 			<groupId>com.esotericsoftware</groupId>
 			<artifactId>reflectasm</artifactId>
 		</dependency>
+		
 	</dependencies>
 </project>
